@@ -3,10 +3,10 @@ import React from 'react'
 
 
 
-const  MyBoxes = ()=>{
+const  Grid = ()=>{
   return(
     <div>
-      <div class="grid-container">
+      <div className="grid-container">
   <div>1</div>
   <div>2</div>
   <div>3</div>  

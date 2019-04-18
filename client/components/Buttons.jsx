@@ -1,11 +1,17 @@
 import React from 'react'
 
 
+function Buttons(){
+  return(
+    <div>
+      
+    </div>
+  )
+}
 
 
 
 
 
 
-
-export default Bottons
+export default Buttons

@@ -12,7 +12,7 @@ const App = () => (
   <Header />
   <Sound />
   <Grid />
-  <Contacts />
+  <Contact />
   <Buttons  />
   <Footer />
   </div>
@@ -21,9 +21,9 @@ const App = () => (
 
 
 
-function showBox (contact) {
-  return <Box name={Box.name} service={Box.service} compony ={Box.compony } images={Box.images}cellphone={Box.cellphone} landline ={Box.landline } email={Box.email}website ={Box.website } address={Box.address}/>
-}
+// function showBox (contact) {
+//   return <Box name={Box.name} service={Box.service} compony ={Box.compony } images={Box.images}cellphone={Box.cellphone} landline ={Box.landline } email={Box.email}website ={Box.website } address={Box.address}/>
+// }
 
 // const App = () => (
 //   <div className='container'>

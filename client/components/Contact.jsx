@@ -1,21 +1,21 @@
 import React from 'react'
-import Contact from 'Contact'
 
 
 
-function Contactcard (){
+
+function Contact(){
     return(
         <div >
-            <p>
-            name: "",
-            service: "",
-            compony: "",
-            cellphone:"",
-            landline:"",
-            email:"",
-            website:"",
-            address:"",
-            </p>
+            <ul>
+            <li> name: "",</li>
+            <li>service: "",</li>
+            <li>compony: "",</li>
+            <li>cellphone:"",</li>
+            <li>landline:"",</li>
+            <li>email:"",</li>
+            <li>website:"",</li>
+            <li>address:"",</li>
+           </ul>
         </div>
     )
 }
