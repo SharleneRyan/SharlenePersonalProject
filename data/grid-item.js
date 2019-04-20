@@ -2,7 +2,7 @@ module.exports = [
   {
     id: 1,
     blogTitle: 'Police',
-    link: 'https://wilber.net/blog'
+    link: 'https://wilber.net/blog',
   },
   {
     id: 2,

@@ -1,16 +1,16 @@
 module.exports = [
         {
             
-        id:111
+        id:111,
         
-            name: ""
-            service: ""
-            compony: ""
-            cellphone:""
-            landline:""
-            email:""
-            website:""
-            address:""
+            name: "",
+            service: "",
+            compony: "",
+            cellphone:"",
+            landline:"",
+            email:"",
+            website:"",
+            address:"",
         
           
         },
@@ -18,31 +18,31 @@ module.exports = [
         const foodBanks = [
         {
             
-        id:112
+        id:112,
            
-            name: ""
-            service: ""
-            compony: ""
-            cellphone:""
-            landline:""
-            email:""
-            website:""
-            address:""
+            name: "",
+            service: "",
+            compony: "",
+            cellphone:"",
+            landline:"",
+            email:"",
+            website:"",
+            address:"",
         
         }
         ]
         const churches = [
         {
             
-        id:113
-        {
-            name: ""
-            service: ""
-            compony: ""
-            cellphone:""
-            landline:""
-            email:""
-            website:""
+        id:113,
+        
+            name: "",
+            service: "",
+            compony: "",
+            cellphone:"",
+            landline:"",
+            email:"",
+            website:"",
             address:""
         
         }
@@ -50,34 +50,20 @@ module.exports = [
         const rehab = [
         {
             
-        id:114
+        id:114,
         
-            name: ""
-            service: ""
-            compony: ""
-            cellphone:""
-            landline:""
-            email:""
-            website:""
-            address:""
-        
-        }
-]
-        const  = [
-        {
-            
-        id:115
-        
-            name: ""
-            service: ""
-            compony: ""
-            cellphone:""
-            landline:""
-            email:""
-            website:""
-            address:""
+            name: "",
+            service: "",
+            compony: "",
+            cellphone:"",
+            landline:"",
+            email:"",
+            website:"",
+            address:"",
         
         }
+        ]
+       
     
-],
+
 

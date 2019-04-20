@@ -1,16 +1,16 @@
 module.exports =[
 {
     
- id:121
+ id:121,
  
-    name: ""
-    service: ""
-    compony: ""
-    cellphone:""
-    landline:""
-    email:""
-    website:""
-    address:""
+    name: "",
+    service: "",
+    compony: "",
+    cellphone:"",
+    landline:"",
+    email:"",
+    website:"",
+    address:"",
 
   
 },
@@ -18,48 +18,47 @@ module.exports =[
 const education = [
 {
     
- id:13
+ id:13,
  
-    name: ""
-    service: ""
-    compony: ""
-    cellphone:""
-    landline:""
-    email:""
-    website:""
-    address:""
+    name: "",
+    service: "",
+    compony: "",
+    cellphone:"",
+    landline:"",
+    email:"",
+    website:"",
+    address:"",
 
   
 ]
 const finance = [
 {
     
- id:14
+ id:14,
  
-    name: ""
-    service: ""
-    compony: ""
-    cellphone:""
-    landline:""
-    email:""
-    website:""
-    address:""
+    name: "",
+    service: "",
+    compony: "",
+    cellphone:"",
+    email:"",
+    website:"",
+    address:"",
 
   
 ]
 const housing = [
 {
     
- id:15
+ id:15,
  
-    name: ""
-    service: ""
-    compony: ""
-    cellphone:""
-    landline:""
-    email:""
-    website:""
-    address:""
+    name: "",
+    service: "",
+    compony: "",
+    cellphone:"",
+    landline:"",
+    email:"",
+    website:"",
+    address:"",
 
 }
 ]
