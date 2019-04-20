@@ -29,7 +29,7 @@ const education = [
     website:"",
     address:"",
 
-  
+},  
 ]
 const finance = [
 {
@@ -44,7 +44,7 @@ const finance = [
     website:"",
     address:"",
 
-  
+},  
 ]
 const housing = [
 {
