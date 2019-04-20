@@ -19,6 +19,34 @@ const App = () => (
   
 )
 
+class App extends React.Component{
+  constructor(props){
+    super(props)
+  
+
+    this.state = {
+     familyServices:[{}]
+
+
+   }
+//     // this.renderShowBox = this.renderShowBox .bind(this)
+//     this.handleClick = this.handleClick .bind(this)
+//     this.FamilyServicesInfo = this.FamilyServicesInfo .bind(this)
+//   }
+
+ 
+ 
+
+//   componentWillMount() {
+//     getFamilyServicesInfo(this.renderFamilyServicesInfo)
+//     console.log("Info returned from getFamilyServicesInfo: ", getFamilyServicesInfo(this.renderFamilyServicesInfo)
+//     )
+//   }
+
+//   handleClick(e) {
+//     let FamilyServicesName = e.target.id
+//     getFamilyServicesInfo(this.renderFamilyServicesInfo, FamilyServicesName)
+//   }
 
 
 // function showBox (contact) {
